@@ -6,12 +6,12 @@ Images fail to render / produce the right `src` attribute for their HTML `<img>`
 
 | Begin z = 4 End |
 | - |
-| ![](test.jpg) |
+| ![cat](test.jpg) |
 
 ### LaTeX in header, fails to render image:
 
 | Begin $z = 4$ End |
 | - |
-| ![](test.jpg) |
+| ![cat](test.jpg) |
 
 Both render fine in VSCode but the latter fails on [GitHub's website](https://github.com/jb2170/Github-LaTeX-In-Markdown-Table-Header-Prevents-Image)
